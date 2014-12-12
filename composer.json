@@ -1,0 +1,17 @@
+{
+    "name": "sogevia/component-doctrine",
+    "license": "MIT",
+    "type": "component",
+    "description": "Base classe from doctrine orm",
+    "autoload": {
+        "psr-0": { "" : "src/" }
+    },
+    "require": {
+        "php"          : ">=5.3.3",
+        "doctrine/orm" : "~2.2,>=2.2.3"
+    },
+    "require-dev": {
+        "m6web/coke"                     : "~1.2",
+        "m6web/Symfony2-coding-standard" : "~1.2"
+    }
+}
