@@ -1,6 +1,6 @@
 <?php
 
-namespace Iziscar\Component\Doctrine;
+namespace Sogevia\Component\Doctrine;
 
 use Doctrine\ORM\EntityManager;
 
